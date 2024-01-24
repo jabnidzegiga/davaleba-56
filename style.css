@@ -1,13 +1,12 @@
 .box{
+   padding-top: 71px;
+    padding-left: 95px;
     width: 550px;
     height: 550px;
     border: 1px solid #F00;
 }
 p{
-    padding-top: 71px;
-    padding-left: 95px;
-    padding-right: 402px;
-    padding-bottom: 460px;
+  
     color: #F00;
 font-family: Inter;
 font-size: 16px;
